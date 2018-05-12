@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25130
     wikipedia: http://en.wikipedia.org/wiki/S.P._Meek
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29326#The-Great-Drought
 gutenberg_bookshelf:
 - Astounding Stories
 - Science Fiction
